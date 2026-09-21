@@ -56,6 +56,9 @@ Vehicle works again, probably €800 in the pocket that wouldn't have been there
 
 The total cost for parts; clutch pack, clutch bearing, DOT4, transmission seal was €244,21 - which is a sunk cost anyway and probably cheaper than it would have been with the garage markup.
 I bought a large low profile 3T hydraulic jack (returned Vevor) for €150 and a pair of 3T jack stands for €25. Those things last forever (this jack is actually fully serviceable) so I don't really know how you count that expenditure. Probably one of those things that ten years from now you don't regret buying at a discount. The business economics discussion is one that gets had in a nice, clean, well lit environment and that's why, to me, it just doesn't capture the reason why you need effective, reliable tools.
+It's a conversation I find very interesting; is it worth me doing the job myself? If you count the time - probably not, marginal at best. If you count the learning - I mean what would a mechanics course up to this level cost? Is it even a thing if you're not in the trade? If you count the downtime of the vehicle?
+I haven't really figured it out and I like twisting spanners so it can be written off as type 2 fun.
+
 The cool thing about this vehicle is that it's old, it's cheap, if I break it I won't be that upset - and it's been a great learning platform.
 Worst case (other than injury) is I have to pay for it to be towed and crushed into a cube.
 
