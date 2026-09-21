@@ -1,6 +1,8 @@
 # Van-Clutch-Slave-Cylinder-Replacement
 A story about me fixing a van
 
+![Van](Van.jpg)
+
 The star of our story is a Vauxhall Vivaro A 2.0L from 2012. I bought it in 2018 for 4200 GBP, it was an ex fleet vehicle, I converted it to a simple modular camper - which is also a different story about design.
 
 The reason I'm telling you the story is to showcase my ability as a mechanic, this being the most challenging such project I have done, and in case you're wondering why my GitHub calendar isn't all green - it's because I was outdoors.
@@ -38,7 +40,7 @@ This is the point where the videos and Haynes Manual stop being helpful.
 There are a lot of wires and pipes around the transmission bell so there's some work to displace them, they're obviously made as short as possible to save weight and cost so it's a bit tricky.
 The sub frame stops the transmission from dropping straight down so you have to lay under it, slide it off the axle and then roll it out and around the subframe. My skepticism about the utility of pushups and the bench press as training modalities for real life work was suddenly reduced at this moment.
 
-![Clutch Down]()
+![Clutch Down](ClutchDown.jpg)
 
 As I said, actually replacing the cylinder is trivial. You just clean it, replace the cylinder, replace the clutch pack, centre it with the centring tool, tighten it up. Jobs a good one - maybe 15 mins. You definitely don't want to have to do this again though so triple check with a friend.
 
